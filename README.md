@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A novice in the field of programming!
+
 <!--
 **hmrvc/hmrvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
